@@ -10,12 +10,14 @@
     "id": 2, 
     "name": "Diya Patel", 
     "gender": "Female", 
-    "age": 14, "grade": "9th" 
+    "age": 14, 
+    "grade": "9th" 
   },
   { 
     "id": 3, 
     "name": "Vivaan Mehta", 
-    "gender": "Male", "age": 16, 
+    "gender": "Male", 
+    "age": 16, 
     "grade": "11th" 
   },
   { 
@@ -78,79 +80,14 @@
     "id": 2, 
     "name": "Diya Patel", 
     "gender": "Female", 
-    "age": 14, "grade": "9th" 
-  },
-  { 
-    "id": 3, 
-    "name": "Vivaan Mehta", 
-    "gender": "Male", "age": 16, 
-    "grade": "11th" 
-  },
-  { 
-    "id": 4, 
-    "name": "Ananya Reddy", 
-    "gender": "Female", 
-    "age": 17, 
-    "grade": "12th" 
-  },
-  { 
-    "id": 5, 
-    "name": "Kabir Singh", 
-    "gender": "Male", 
-    "age": 13, 
-    "grade": "8th" 
-  },
-  { 
-    "id": 6, 
-    "name": "Meera Nair", 
-    "gender": "Female", 
-    "age": 15, 
-    "grade": "10th"
-  },
-  { 
-    "id": 7, 
-    "name": "Arjun Verma", 
-    "gender": "Male",
     "age": 14, 
     "grade": "9th" 
   },
   { 
-    "id": 8, 
-    "name": "Ishita Desai", 
-    "gender": "Female", 
-    "age": 16, 
-    "grade": "11th" 
-  },
-  { 
-    "id": 9, 
-    "name": "Rohan Joshi", 
-    "gender": "Male", 
-    "age": 17, 
-    "grade": "12th" 
-  },
-  { 
-    "id": 10, 
-    "name": "Sneha Iyer", 
-    "gender": "Female", 
-    "age": 13, 
-    "grade": "8th" 
-  },{ 
-    "id": 1, 
-    "name": "Aarav Sharma", 
-    "gender": "Male", 
-    "age": 15, 
-    "grade": "10th" 
-  },
-  { 
-    "id": 2, 
-    "name": "Diya Patel", 
-    "gender": "Female", 
-    "age": 14, "grade": "9th" 
-  },
-  { 
     "id": 3, 
     "name": "Vivaan Mehta", 
-    "gender": "Male", "age": 16, 
+    "gender": "Male", 
+    "age": 16, 
     "grade": "11th" 
   },
   { 
@@ -212,12 +149,14 @@
     "id": 2, 
     "name": "Diya Patel", 
     "gender": "Female", 
-    "age": 14, "grade": "9th" 
+    "age": 14, 
+    "grade": "9th" 
   },
   { 
     "id": 3, 
     "name": "Vivaan Mehta", 
-    "gender": "Male", "age": 16, 
+    "gender": "Male", 
+    "age": 16, 
     "grade": "11th" 
   },
   { 
@@ -279,12 +218,83 @@
     "id": 2, 
     "name": "Diya Patel", 
     "gender": "Female", 
-    "age": 14, "grade": "9th" 
+    "age": 14, 
+    "grade": "9th" 
   },
   { 
     "id": 3, 
     "name": "Vivaan Mehta", 
-    "gender": "Male", "age": 16, 
+    "gender": "Male", 
+    "age": 16, 
+    "grade": "11th" 
+  },
+  { 
+    "id": 4, 
+    "name": "Ananya Reddy", 
+    "gender": "Female", 
+    "age": 17, 
+    "grade": "12th" 
+  },
+  { 
+    "id": 5, 
+    "name": "Kabir Singh", 
+    "gender": "Male", 
+    "age": 13, 
+    "grade": "8th" 
+  },
+  { 
+    "id": 6, 
+    "name": "Meera Nair", 
+    "gender": "Female", 
+    "age": 15, 
+    "grade": "10th"
+  },
+  { 
+    "id": 7, 
+    "name": "Arjun Verma", 
+    "gender": "Male",
+    "age": 14, 
+    "grade": "9th" 
+  },
+  { 
+    "id": 8, 
+    "name": "Ishita Desai", 
+    "gender": "Female", 
+    "age": 16, 
+    "grade": "11th" 
+  },
+  { 
+    "id": 9, 
+    "name": "Rohan Joshi", 
+    "gender": "Male", 
+    "age": 17, 
+    "grade": "12th" 
+  },
+  { 
+    "id": 10, 
+    "name": "Sneha Iyer", 
+    "gender": "Female", 
+    "age": 13, 
+    "grade": "8th" 
+  },{ 
+    "id": 1, 
+    "name": "Aarav Sharma", 
+    "gender": "Male", 
+    "age": 15, 
+    "grade": "10th" 
+  },
+  { 
+    "id": 2, 
+    "name": "Diya Patel", 
+    "gender": "Female", 
+    "age": 14, 
+    "grade": "9th" 
+  },
+  { 
+    "id": 3, 
+    "name": "Vivaan Mehta", 
+    "gender": "Male", 
+    "age": 16, 
     "grade": "11th" 
   },
   { 
@@ -347,12 +357,14 @@
     "id": 2, 
     "name": "Diya Patel", 
     "gender": "Female", 
-    "age": 14, "grade": "9th" 
+    "age": 14, 
+    "grade": "9th" 
   },
   { 
     "id": 3, 
     "name": "Vivaan Mehta", 
-    "gender": "Male", "age": 16, 
+    "gender": "Male", 
+    "age": 16, 
     "grade": "11th" 
   },
   { 
@@ -404,9 +416,6 @@
     "age": 13, 
     "grade": "8th" 
   }
-  
-
-
 ]
 
 
