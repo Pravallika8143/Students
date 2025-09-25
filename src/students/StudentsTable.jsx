@@ -96,8 +96,8 @@ function sortByKey(k){
     })
 }
     function next5(){
-     setStartIndex(startIndex+5)
-     setEndIndex(endIndex+5)
+     setStartIndex(startIndex+5);
+     setEndIndex(endIndex+5);
     }
      return (
         <div>
