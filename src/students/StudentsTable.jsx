@@ -99,9 +99,16 @@ function sortByKey(k){
      setStartIndex(startIndex+5);
      setEndIndex(endIndex+5);
     }
+
+    function back(){
+     setEndIndex(endIndex-5);
+     setStartIndex(startIndex-5);
+    }
      return (
         <div>
-            <button onClick={()=>{next5()}} className='mb-3'>Next-5</button>
+            
+            <button onClick={()=>{next5()}} className='mb-3 rounded-3'>Next</button>
+            <button onClick={()=>{back()}} className='mb-3 rounded-3' style={{marginLeft:"90%"}}>Back</button>
             
             <table  border="2"  className='table table-striped'>
             <thead>
