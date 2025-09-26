@@ -110,7 +110,7 @@ function sortByKey(k){
             <button onClick={()=>{next5()}} className='mb-3 rounded-3'>Next</button>
             <button onClick={()=>{back()}} className='mb-3 rounded-3' style={{marginLeft:"90%"}}>Back</button>
             
-            <table  border="2"  className='table table-striped'>
+            <table className='border border-2 table table-striped'>
             <thead>
                 <tr>
                     <th></th>
@@ -126,7 +126,7 @@ function sortByKey(k){
                    {
                     allstudents.slice(startIndex,endIndex).map((student)=>{
                       return (
-                    <tr style={(student.gender==='Female')?{backgroundColor:"lightpink"}:{backgroundColor:"lightblue"}}>
+                    <tr>
                         {
                             student.gender==='Male' && (<td><img  width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSeatcmYRYsMNho5mAp9qySUzghxQYU_TPGw&s"/></td>)
                         }
